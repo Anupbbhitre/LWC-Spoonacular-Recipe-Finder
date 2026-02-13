@@ -81,7 +81,7 @@ force-app
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/lwc-spoonacular-recipe.git
+git clone https://github.com/Anupbbhitre/lwc-spoonacular-recipe.git
 cd lwc-spoonacular-recipe
 ```
 
